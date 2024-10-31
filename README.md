@@ -73,19 +73,9 @@ Anda dapat mengubah beberapa parameter di dalam skrip:
    -Interval pemantauan dan pembaruan grafik dapat disesuaikan dalam fungsi `monitor_traffic()` dan `FuncAnimation()`.
 
 
-📂 Struktur Proyek
-scan-web-tool/
-│
-├── scan_web.py          # Tool pemindaian web
-├── website_monitor.py   # Tool monitoring traffic
-├── requirements.txt     # Daftar dependensi
-├── README.md            # Dokumentasi
-└── .gitignore           # File konfigurasi git
-
-
 📜 Requirements.txt
-`requests>=2.25.1
-matplotlib>=3.3.4`
+`requests>=2.25.1`
+`matplotlib>=3.3.4`
 
 👤 Author
 `BlackCat-443`
